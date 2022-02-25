@@ -1,0 +1,6 @@
+# Students grades
+output_path: '........'   #path to save results
+data_path: 'data/student/student-mat.csv'
+chosen_features: [4,5,9,18,31,33]
+margin: 2
+

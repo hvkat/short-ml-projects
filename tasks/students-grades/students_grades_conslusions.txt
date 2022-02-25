@@ -1,0 +1,11 @@
+STUDENTS GRADES PREDICTIONS CONCLUSIONS as of 2022-02-25
+School educational support has larger impact than family educational support.
+Pass class failures seem to have meaningful impact on final grade.
+Neither study time nor free time have much impact on grade.
+Location related features seem to have smaller impact than education related ones.
+Access to Internet doesn’t have much impact.
+Combination of family relations, its size, educational support and parents’ cohabitation status seems to be unrelated to grades.
+Parents’ education seems to have more impact than their current job, and apparently mother’s education and job > father’s, and no matter who student’s guardian is.
+Alcohol consumption seems to have not much effect.
+Participation in additional activities and learning after school has not much effect.
+Personal features like sex, age, health have an effect on grades rather than a will to join extra-curricular activities or being in relationship.
