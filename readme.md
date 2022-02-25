@@ -4,7 +4,6 @@ In this repository I present a set of various short ML projects prepared with us
 Addiditional descriptions and datasets sources provided inside files in *projects* folder.
 
 # Projects included
-- Predicting Students Grades (*Linear regression*)
+- [Predicting Students Grades](https://github.com/hvkat/short-ml-projects/tree/main/tasks/students-grades) (*Linear regression*)
 
-# Results
-Track of results for particular projects included in *output* folder.
+
