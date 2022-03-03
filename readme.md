@@ -5,6 +5,6 @@ Addiditional descriptions and datasets sources provided inside files in *tasks* 
 
 # Projects included
 - [Predicting Students Grades](https://github.com/hvkat/short-ml-projects/tree/main/tasks/students-grades) (*Linear regression*)
-- [Predicting Abalone Age](https://github.com/hvkat/short-ml-projects/tree/main/tasks/abalone-age)(*Linear regression/classification*)
+- [Predicting Abalone Age](https://github.com/hvkat/short-ml-projects/tree/main/tasks/abalone-age) (*Linear regression/classification*)
 
 
