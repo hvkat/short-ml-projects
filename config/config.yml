@@ -1,6 +1,12 @@
-# Students grades
-output_path: '........'   #path to save results
-data_path: 'data/student/student-mat.csv'
-chosen_features: [4,5,9,18,31,33]
-margin: 2
+Students grades:
+  output_path: 'D:/scikit/scikit-project-env/output/'   # path to save results
+  data_path: 'data/student/student-mat.csv'
+  chosen_features: [4,5,9,18,31,33]
+  margin: 2
 
+Abalone age:
+  data_path: 'data/abalone.data'
+  clf_model: 'knn'                                      # model for classification. 'knn' (k-Nearest Neighbors) or 'log_reg' (Logistic Regression)
+  k: 5                                                  # k-nearest neighbors
+  mode_clf: 1                                           # classifier mode, 0 or 1
+  mode_reg: 0                                           # regression mode, 0 or 1 (both available at the same run)
