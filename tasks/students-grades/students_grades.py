@@ -15,6 +15,7 @@ import yaml
 config_path = 'D:/scikit/scikit-project-env/config/'
 with open(os.path.join(config_path,'config.yml')) as c:
     configs = yaml.safe_load(c)
+configs = configs['Students grades']
 
 output_path = configs['output_path']
 df = pd.read_csv(configs['data_path'], delimiter=';')     
